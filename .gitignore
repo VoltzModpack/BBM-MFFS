@@ -11,4 +11,5 @@ build/
 .cache
 .settings/org.eclipse.jdt.core.prefs
 output/
+out/
 BBM-Mffs.txt
